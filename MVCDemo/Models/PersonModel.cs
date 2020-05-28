@@ -9,6 +9,7 @@ namespace MVCDemo.Models
     {
         public string FirstName { get; set; }
         public string  LastName { get; set; }
-        public int Aga { get; set; }
+        public int Aga { get; set; } = 0; 
+        public bool IsAlive { get; set; } = true;
     }
 }
