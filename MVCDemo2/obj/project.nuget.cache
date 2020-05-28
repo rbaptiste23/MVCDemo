@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GLl/zRipukmwtyAbxVKY3dg4pvGPyHtxk0j/4SkV8u8+LWmx5K/5MuAPEWp0QAs3wvbU2KI9upCdOAFZ95AQzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riley\\source\\repos\\ASPDemoApplication\\MVCDemo2\\MVCDemo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riley\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\riley\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

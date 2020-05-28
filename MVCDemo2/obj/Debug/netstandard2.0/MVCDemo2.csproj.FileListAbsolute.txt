@@ -1,0 +1,9 @@
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\bin\Debug\netstandard2.0\MVCDemo2.deps.json
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\bin\Debug\netstandard2.0\MVCDemo2.dll
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\bin\Debug\netstandard2.0\MVCDemo2.pdb
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\obj\Debug\netstandard2.0\MVCDemo2.csprojAssemblyReference.cache
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\obj\Debug\netstandard2.0\MVCDemo2.AssemblyInfoInputs.cache
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\obj\Debug\netstandard2.0\MVCDemo2.AssemblyInfo.cs
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\obj\Debug\netstandard2.0\MVCDemo2.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\obj\Debug\netstandard2.0\MVCDemo2.dll
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo2\obj\Debug\netstandard2.0\MVCDemo2.pdb

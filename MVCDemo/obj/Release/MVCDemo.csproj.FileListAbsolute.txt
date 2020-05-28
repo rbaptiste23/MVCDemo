@@ -53,6 +53,7 @@ C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\roslyn\VBCSCompiler.e
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\Antlr3.Runtime.dll
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\MVCDemo2.dll
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\Newtonsoft.Json.dll
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.Helpers.dll
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.Mvc.dll
@@ -62,6 +63,7 @@ C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.WebPages.D
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.WebPages.dll
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.WebPages.Razor.dll
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\WebGrease.dll
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\MVCDemo2.pdb
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.Helpers.xml
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.Mvc.xml
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.Optimization.xml
@@ -72,10 +74,8 @@ C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\System.Web.WebPages.R
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\Newtonsoft.Json.xml
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\Antlr3.Runtime.pdb
 C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Debug\MVCDemo.csprojAssemblyReference.cache
-C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Debug\MVCDemo.csproj.CoreCompileInputs.cache
-C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Debug\MVCDemo.csproj.CopyComplete
-C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Debug\MVCDemo.dll
-C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Debug\MVCDemo.pdb
-C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\MVCDemo2.dll
-C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\bin\MVCDemo2.pdb
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Release\MVCDemo.csprojAssemblyReference.cache
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Release\MVCDemo.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Release\MVCDemo.csproj.CopyComplete
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Release\MVCDemo.dll
+C:\Users\riley\source\repos\ASPDemoApplication\MVCDemo\obj\Release\MVCDemo.pdb
