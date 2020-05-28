@@ -37,8 +37,37 @@
         </footer>
     </div>
 
+
+    <!--
+       ~ = from the root directory
+       This info is pulled from the App_Start/BundleConfig.cs file
+       Bundling = Grouping script together..
+
+       bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
+                    "~/Scripts/jquery-{version}.js"));
+
+       File is acutally located in "~/Scripts"
+
+    -->
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
+
+    <!-- Custom JavaScript
+            this needs to be here if I want to add Javascript to my view.
+            Javascript will not run because it is loaded later on the page
+
+
+     This is done on the html page / Javascript should be in its own file.
+    ddd@section Scripts{
+      <script></script>
+    } 
+        
+        coding doesn't begin til 1:07:24 in the video'
+      -->
     @RenderSection("scripts", required: false)
+
+
+
+
 </body>
 </html>
