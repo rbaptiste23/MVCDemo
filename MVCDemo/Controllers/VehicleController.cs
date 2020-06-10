@@ -27,6 +27,8 @@ namespace MVCDemo.Controllers
             vehicle.Add(new CarModel { Make = "Chevy", Model = "Corvette", Color = "Brown", Year = 2021 });
             vehicle.Add(new TruckModel { Make = "Ford", Model = "F150", Color = "Green", Year = 2020 });
             vehicle.Add(new TruckModel { Make = "Dodge", Model = "Durango", Color = "Red", Year = 2019 });
+            vehicle.Add(new TruckModel { Make = "Ford", Model = "F328", Color = "Red", Year = 1979 });
+            vehicle.Add(new CarModel { Make = "Ford", Model = "Mustang", Color = "Turquoise", Year = 2025 });
 
 
             return View(vehicle);

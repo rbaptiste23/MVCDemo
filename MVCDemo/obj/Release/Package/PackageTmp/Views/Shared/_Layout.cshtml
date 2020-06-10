@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -@ViewBag.Superhero</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("People", "Index", "People")</li>
+                    <li>@Html.ActionLink("PeopleList", "ListPeople", "People")</li>
+                    <li>@Html.ActionLink("VehicleList", "ListVehicle", "Vehicle")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+
+            <p>&copy; @DateTime.Now.DayOfWeek</p>
+        </footer>
+    </div>
+
+
+    <!--
+       ~ = from the root directory
+       This info is pulled from the App_Start/BundleConfig.cs file
+       Bundling = Grouping script together..
+
+       bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
+                    "~/Scripts/jquery-{version}.js"));
+
+       File is acutally located in "~/Scripts"
+
+    -->
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <!-- Custom JavaScript
+            this needs to be here if I want to add Javascript to my view.
+            Javascript will not run because it is loaded later on the page
+
+
+     This is done on the html page / Javascript should be in its own file.
+    ddd@section Scripts{
+      <script></script>
+    } 
+        
+        coding doesn't begin til 1:07:24 in the video'
+      -->
+    @RenderSection("scripts", required: false)
+
+
+
+
+</body>
+</html>
